@@ -1,0 +1,21 @@
+.container{
+    padding: 100px 100px ;
+    width: 80%;
+}
+.container1{
+    padding-top: 25px;
+    text-align: center;
+    position: relative;
+}
+.subcontainer1{
+    height: 100px;
+    width: 90%;
+   padding: 25px 25px 100px 150px;
+   text-align: center 
+}
+.container2{
+    height: 700px;
+    }
+    .c1{
+        background-color: rgb(240, 240, 240);
+    }
